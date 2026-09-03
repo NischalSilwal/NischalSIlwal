@@ -1,20 +1,22 @@
-<h1 align="center">Hi 👋, I'm Nischal Silwal</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h1 align="center">Hi, I'm Nischal Silwal </h1>
+<h3 align="center">Full Stack Engineer with 3+ years building modern web & mobile apps. Specialised in React, Next.js, TypeScript, Flutter, & FastAPI. Shipping clean, scalable, products from Hetauda, Nepal.</h3>
 
 <h3 align="left">🛠️ Skills & Tools</h3>
 <ul>
-  <li><b>Backend & Frameworks:</b> Node.js, ASP.NET Core, Django, GraphQL, RESTful APIs, JWT, OAuth (Google & Apple), RabbitMQ, SignalR, Entity Framework, LINQ, SMTP</li>
-  <li><b>Frontend:</b> React, Redux  toolkit, Next.js, TypeScript, Tailwind CSS, Axios, TamaGUI, HeroUI, Shadcn,</li>
-  <li><b>Databases:</b> SQL Server, PostgreSQL, MySQL, Dapper, T-SQL, Query Optimization</li>
-  <li><b>DevOps & Tools:</b> Docker, Docker Compose, NGINX, Git, GitHub Actions, GitLab CI/CD,, Linux</li>
+  <li><b>Backend & Frameworks:</b> Node.js, ASP.NET Core, Fast API, Django, GraphQL, RESTful APIs, JWT, OAuth (Google & Apple), RabbitMQ</li>
+  <li><b>Frontend:</b> React, Redux  toolkit, Next.js, TypeScript, Tailwind CSS, Axios, TamaGUI, Radix  UI, Shadcn,</li>
+  <li><b>Mobile: </b> Flutter, React Native
+  <li><b>Databases:</b> SQL Server, PostgreSQL, MySQL, T-SQL, Query Optimization</li>
+  <li><b>DevOps & Tools:</b> Docker, Docker Compose, NGINX, Git, GitHub Actions, GitLab CI/CD, Linux</li>
   <li><b>Architecture & Patterns:</b> Clean Architecture, CQRS (MediatR), Repository Pattern, Dependency Injection, SOLID and OOP</li>
 </ul>
 
 <h3 align="left">🚀 Projects</h3>
 
-**Library Management System (ASP.NET Core)**  
-Clean-Architecture back-end (CQRS + MediatR + Dapper), ASP.NET Core MVC front-end, JWT & role-based auth, PDF reports & SMTP notifications.  
-[__CleanArchitecture-lms-API__](https://gitlab.com/nischalsilwal-group/cleanarchitecture-lms-api) | [__CleanArchitecture-lms-frontend__](https://gitlab.com/nischalsilwal-group/cleanarchitecture-lms-frontend)
+**Kinyo - SaaS Platform (Tamagui, React, TypeScript)**
+Cross-platform SaaS application with Tamagui monorepo architecture, Next.js web app, React Native mobile app via Expo, Redux state management, GraphQL APIs with Apollo Client, Socket-based live data, JWT authentication, file handling, and POS-compatible order token PDF generation.
+[**Kinyo**](kinyoapp)
+
 
 **Library Management System (Django + React)**  
 Django REST API + PostgreSQL + RabbitMQ async e-mail alerts, React + TypeScript + TailwindCSS, Docker Compose & GitLab CI/CD deployment.  
