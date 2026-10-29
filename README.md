@@ -1,49 +1,74 @@
-<h1 align="center">Hi, I'm Nischal Silwal </h1>
-<h3 align="center">Full Stack Engineer with 3+ years building modern web & mobile apps. Specialised in React, Next.js, TypeScript, Flutter, & FastAPI. Shipping clean, scalable, products from Hetauda, Nepal.</h3>
+<h1 align="center">Hi, I'm Nischal Silwal 👋</h1>
+<h3 align="center">Full Stack Developer with 3+ years of experience building scalable web and mobile apps with Next.js, TypeScript, FastAPI, and Node.js. I ship clean, production-ready products.</h3>
 
-<h3 align="left">🛠️ Skills & Tools</h3>
-<ul>
-  <li><b>Backend & Frameworks:</b> Node.js, ASP.NET Core, Fast API, Django, GraphQL, RESTful APIs, JWT, OAuth (Google & Apple), RabbitMQ</li>
-  <li><b>Frontend:</b> React, Redux  toolkit, Next.js, TypeScript, Tailwind CSS, Axios, TamaGUI, Radix  UI, Shadcn,</li>
-  <li><b>Mobile: </b> Flutter, React Native
-  <li><b>Databases:</b> SQL Server, PostgreSQL, MySQL, T-SQL, Query Optimization</li>
-  <li><b>DevOps & Tools:</b> Docker, Docker Compose, NGINX, Git, GitHub Actions, GitLab CI/CD, Linux</li>
-  <li><b>Architecture & Patterns:</b> Clean Architecture, CQRS (MediatR), Repository Pattern, Dependency Injection, SOLID and OOP</li>
-</ul>
-
-<h3 align="left">🚀 Projects</h3>
-
-**Kinyo - SaaS Platform (Tamagui, React, TypeScript)**
-Cross-platform SaaS application with Tamagui monorepo architecture, Next.js web app, React Native mobile app via Expo, Redux state management, GraphQL APIs with Apollo Client, Socket-based live data, JWT authentication, file handling, and POS-compatible order token PDF generation.
-[**Kinyo**](kinyoapp)
-
-
-**Library Management System (Django + React)**  
-Django REST API + PostgreSQL + RabbitMQ async e-mail alerts, React + TypeScript + TailwindCSS, Docker Compose & GitLab CI/CD deployment.  
-[__pipeline-lms__](https://gitlab.com/nischalsilwal-group/pipeline-lms)
-
-<h3 align="left">🏆 Achievements:</h3>
-<ul>
-  <li>🏅 Hackathon Winner – HSMSS (Nov 2022)</li>
-  <li>🥈 IT Quiz – First Runner-Up, HSMSS FEST</li>
-  <li>🥉 Debugging Competition – Second Runner-Up, HSMSS FEST</li>
-</ul>
-
-<h3 align="left">🌟 Leadership:</h3>
-<ul>
-  <li>🎨 President of Art Club at HSMSS(Collage club)(2022–2025)</li>
-  <li>📋 Organized Acoustic Evenings, Hackathons, and IT Events</li>
-</ul>
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nischalsilwal&show_icons=true&locale=en&layout=compact" alt="nischalsilwal" />
+<p align="center">
+  <a href="https://www.nischalsilwal.com.np/">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/nischal-silwal-1ba8b2324/">LinkedIn</a> •
+  <a href="mailto:nischalsilwalhtd@gmail.com">Email</a> •
 </p>
 
-- 📫 How to reach me: **nischalsilwalhtd@gmail.com**
-- 📄 Know more about my experiences: [Resume](https://drive.google.com/file/d/1YvTt11dsC0Y05UolWeQeZhgjKmLp2RM_/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
+### 💼 What I'm Doing Now
+
+- Full Stack Software Developer at **Avenir Tech Pvt. Ltd.** (since April 2025)
+- Building production apps with Next.js, FastAPI, and PostgreSQL
+- Improving speed and reliability with Cloudflare CDN, Redis caching, and API rate limiting
+- Leading a small team of 2 developers and 1 designer
+- Using AI tools and agents to speed up development
+
+---
+
+### 🛠️ Skills & Tools
+
+- **Languages:** TypeScript, JavaScript, Python, C#
+- **Frontend:** Next.js, React, Tailwind CSS, Redux Toolkit, TanStack Query, React Hook Form, Zod, Radix UI, shadcn/ui, Tamagui, Apollo Client, Axios
+- **UI Implementation:** Pixel-perfect Figma-to-code, responsive layouts, reusable component libraries
+- **Backend & APIs:** FastAPI, Node.js, Express.js, ASP.NET Core, Django, REST, GraphQL, WebSockets, JWT, OAuth (Google & Apple), RBAC, RabbitMQ
+- **Mobile:** React Native (Expo), Flutter
+- **Databases & Caching:** PostgreSQL, MySQL, SQL Server, Redis, Query Optimization, Alembic Migrations
+- **DevOps & Tools:** Docker, Docker Compose, NGINX, Cloudflare CDN, GitHub Actions, GitLab CI/CD, Git, Linux
+- **Architecture:** Clean Architecture, Feature-Sliced Design, CQRS (MediatR), Repository and Service Patterns, Dependency Injection, SOLID
+
+---
+
+### 🚀 Featured Projects
+
+#### 📚 [BookSatau](https://booksatau.com/) – Peer-to-Peer Book Marketplace
+A marketplace where users buy, sell, and exchange books. The frontend uses reusable Radix UI components and TanStack Query, with lazy loading, skeleton loaders, and pagination. The FastAPI backend adds Redis caching, rate limiting, and Alembic migrations, with GlitchTip for production error tracking.
+`Next.js` `FastAPI` `PostgreSQL` `Redis` `FCM` `Docker` `CI/CD`
+
+#### 🍽️ [Kinyo](https://www.kinyoapp.com/) – Restaurant POS
+A cross-platform POS for dine-in, takeaway, and delivery orders, with real-time order tracking, table management, analytics dashboards, and POS-compatible PDF receipts.
+`Next.js` `React Native` `Expo` `TypeScript` `GraphQL` `WebSockets`
+
+#### 🎓 [SafeLand](https://safeland.edu.np/) – Education Consultancy Management System
+A student management platform with role-based access control, eligibility checks, application progress tracking, a Kanban task board, and real-time push notifications. Deployed on a VPS with Docker and CI/CD.
+`Next.js` `FastAPI` `PostgreSQL` `FCM` `Docker`
+
+#### 📖 [Library Management System](https://gitlab.com/nischalsilwal-group/pipeline-lms)
+Django REST API with PostgreSQL and RabbitMQ for async email alerts, a React + TypeScript + Tailwind frontend, and Docker Compose deployment with GitLab CI/CD.
+`Django` `React` `RabbitMQ` `Docker Compose` `GitLab CI/CD`
+
+---
+
+### 🏆 Achievements
+
+- 🏅 Hackathon Winner – HSMSS (Nov 2022)
+- 🥈 IT Quiz First Runner-Up – HSMSS FEST
+- 🥉 Debugging Competition Second Runner-Up – HSMSS FEST
+
+### 🌟 Leadership
+
+- 🎨 President of the Art Club, HSMSS (2022–2025)
+- 📋 Organized acoustic evenings, hackathons, and IT events
+
+---
+
+### 📫 Let's Connect
+
+I'm open to full stack opportunities. Email me at **nischalsilwalhtd@gmail.com**.
+
 <p align="left">
   <a href="https://linkedin.com/in/nischal-silwal-1ba8b2324/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
