@@ -2,7 +2,6 @@
 <h3 align="center">Full Stack Developer with 3+ years of experience building scalable web and mobile apps with Next.js, TypeScript, FastAPI, and Node.js. I ship clean, production-ready products.</h3>
 
 <p align="center">
-  <a href="https://www.nischalsilwal.com.np/">🌐 Portfolio</a> •
   <a href="https://linkedin.com/in/nischal-silwal-1ba8b2324/">LinkedIn</a> •
   <a href="mailto:nischalsilwalhtd@gmail.com">Email</a> •
 </p>
@@ -11,7 +10,7 @@
 
 ### 💼 What I'm Doing Now
 
-- Full Stack Software Developer at **Avenir Tech Pvt. Ltd.** (since April 2025)
+- Full Stack Software Developer at **Avenir Tech Pvt. Ltd.**
 - Building production apps with Next.js, FastAPI, and PostgreSQL
 - Improving speed and reliability with Cloudflare CDN, Redis caching, and API rate limiting
 - Leading a small team of 2 developers and 1 designer
@@ -22,9 +21,9 @@
 ### 🛠️ Skills & Tools
 
 - **Languages:** TypeScript, JavaScript, Python, C#
-- **Frontend:** Next.js, React, Tailwind CSS, Redux Toolkit, TanStack Query, React Hook Form, Zod, Radix UI, shadcn/ui, Tamagui, Apollo Client, Axios
+- **Frontend:** Next.js, React, Tailwind CSS, Redux Toolkit, TanStack Query, React Hook Form, Zod, Radix UI, shadcn/ui, Apollo Client, Axios
 - **UI Implementation:** Pixel-perfect Figma-to-code, responsive layouts, reusable component libraries
-- **Backend & APIs:** FastAPI, Node.js, Express.js, ASP.NET Core, Django, REST, GraphQL, WebSockets, JWT, OAuth (Google & Apple), RBAC, RabbitMQ
+- **Backend & APIs:** FastAPI, Node.js, Express.js, ASP.NET Core, Django, REST, GraphQL, JWT, OAuth (Google), RBAC
 - **Mobile:** React Native (Expo), Flutter
 - **Databases & Caching:** PostgreSQL, MySQL, SQL Server, Redis, Query Optimization, Alembic Migrations
 - **DevOps & Tools:** Docker, Docker Compose, NGINX, Cloudflare CDN, GitHub Actions, GitLab CI/CD, Git, Linux
@@ -36,15 +35,15 @@
 
 #### 📚 [BookSatau](https://booksatau.com/) – Peer-to-Peer Book Marketplace
 A marketplace where users buy, sell, and exchange books. The frontend uses reusable Radix UI components and TanStack Query, with lazy loading, skeleton loaders, and pagination. The FastAPI backend adds Redis caching, rate limiting, and Alembic migrations, with GlitchTip for production error tracking.
-`Next.js` `FastAPI` `PostgreSQL` `Redis` `FCM` `Docker` `CI/CD`
+`Next.js` `FastAPI` `PostgreSQL` `Redis` `FCM` `Docker`
 
 #### 🍽️ [Kinyo](https://www.kinyoapp.com/) – Restaurant POS
 A cross-platform POS for dine-in, takeaway, and delivery orders, with real-time order tracking, table management, analytics dashboards, and POS-compatible PDF receipts.
 `Next.js` `React Native` `Expo` `TypeScript` `GraphQL` `WebSockets`
 
 #### 🎓 [SafeLand](https://safeland.edu.np/) – Education Consultancy Management System
-A student management platform with role-based access control, eligibility checks, application progress tracking, a Kanban task board, and real-time push notifications. Deployed on a VPS with Docker and CI/CD.
-`Next.js` `FastAPI` `PostgreSQL` `FCM` `Docker`
+A student management platform with role-based access control, eligibility checks, application progress tracking, a Kanban task board, and real-time push notifications.
+`Next.js` `FastAPI` `PostgreSQL` `FCM`
 
 #### 📖 [Library Management System](https://gitlab.com/nischalsilwal-group/pipeline-lms)
 Django REST API with PostgreSQL and RabbitMQ for async email alerts, a React + TypeScript + Tailwind frontend, and Docker Compose deployment with GitLab CI/CD.
